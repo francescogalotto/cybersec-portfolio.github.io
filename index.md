@@ -94,7 +94,7 @@ end
 
 ### Small image
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+<script src="https://tryhackme.com/badge/1879241"></script>
 
 ### Large image
 
